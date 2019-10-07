@@ -5,8 +5,8 @@ This R script should produce a nice heatmap cladogram of yeast killer strains vs
 
 * Default Graph
 
-![heatmap_cladogram_default.jpeg](https://raw.githubusercontent.com/amcrabtree/heatmap_cladogram/master/images/heatmap_cladogram_default.jpeg)
+![heatmap_cladogram_default.jpeg](https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/heatmap_cladogram_default.jpeg)
 
 * Graph Maintaining Original Killer Order
 
-![heatmap_cladogram_ordered.jpeg](https://raw.githubusercontent.com/amcrabtree/heatmap_cladogram/master/images/heatmap_cladogram_ordered.jpeg)
+![heatmap_cladogram_ordered.jpeg](https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/heatmap_cladogram_ordered.jpeg)
