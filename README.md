@@ -18,6 +18,10 @@ sudo apt-get install -y zenity
 ```
 <p>&nbsp;</p>
 
+<b>Zenity Usage</b>
+- Right click on file ("hot-yeast_zenity") and open with Terminal (MacOS) or Ubuntu app (Windows)
+<p>&nbsp;</p>
+
 <b>CLI Usage</b>
 ```
 Rscript hot-yeast_CL.py KILLER_DATA.csv hot-yeast_data.csv
