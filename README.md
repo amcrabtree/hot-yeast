@@ -3,7 +3,7 @@ hot-yeast_CL.R
 This R script should produce a nice heatmap cladogram of yeast killer strains vs. lawns. The default plot makes cladograms of x- and y- axes and rearranges both killer strains and lawns into clades with the information given (NOT phylogeny). You can streamline the graph by not allowing it to reorder lawns or killers, or taking away the cladogram on either axis. 
 
 <b>Dependencies</b>
-* [python 3](https://www.python.org/downloads/), [biopython](https://biopython.org/), [zenity](https://linuxconfig.org/how-to-use-graphical-widgets-in-bash-scripts-with-zenity)
+* [R](https://www.r-project.org/), [zenity](https://linuxconfig.org/how-to-use-graphical-widgets-in-bash-scripts-with-zenity)
 
 Downloading zenity
 
@@ -49,12 +49,12 @@ argument | description
 
 change dimensions to height of 6", width of 5", with 7 different killing category assignments
 ```
-Rscript hot-yeast_CL.py hot-yeast_data.csv .jpeg 6 5 7
+Rscript hot-yeast_CL.py hot-yeast_data.csv 6 5 jpeg 7
 ```
 
 default dimensions with 4 different killing categories
 ```
-Rscript hot-yeast_CL.py hot-yeast_data.csv jpeg 10 10 4
+Rscript hot-yeast_CL.py hot-yeast_data.csv 10 10 jpeg 4
 ```
 
 change output to pdf filetype
