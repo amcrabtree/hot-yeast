@@ -20,6 +20,11 @@ sudo apt-get install -y zenity
 
 <b>Zenity Usage</b>
 - Right click on file ("hot-yeast_zenity") and open with Terminal (MacOS) or Ubuntu app (Windows)
+- If there is a problem, navigate to your script in the Terminal/Ubuntu app and then change the file to executable. For example, if you downloaded the script to your Downloads folder on a MacOS: 
+```
+cd ~/Downloads
+chmod a+x INdigestion_zenity
+```
 <p>&nbsp;</p>
 
 <b>CLI Usage</b>
