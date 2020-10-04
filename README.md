@@ -38,12 +38,12 @@ argument | description
 
 * Default Graph
 
-![heatmap_cladogram_default.jpeg](https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/heatmap_cladogram_default.jpeg)
+<img src="https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/killer_assay_heatmap.jpeg" alt="drawing" width="500"/>
 
-* Graph Maintaining Original Killer Order
+* Graph with 7 killing categories
 
-![heatmap_cladogram_ordered.jpeg](https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/heatmap_cladogram_ordered.jpeg)
-<p>&nbsp;</p>
+<img src="https://raw.githubusercontent.com/amcrabtree/hot-yeast/master/images/killer_assay_heatmap_7.jpeg" alt="drawing" width="500"/>
+
 
 <b>Examples</b>
 
