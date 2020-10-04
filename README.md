@@ -23,7 +23,7 @@ sudo apt-get install -y zenity
 - If there is a problem, navigate to your script in the Terminal/Ubuntu app and then change the file to executable. For example, if you downloaded the script to your Downloads folder on a MacOS: 
 ```
 cd ~/Downloads
-chmod a+x INdigestion_zenity
+chmod a+x hot-yeast_zenity
 ```
 <p>&nbsp;</p>
 
