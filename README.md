@@ -1,9 +1,9 @@
 hot-yeast_CL.R
 ------------------
-This R script should produce a nice heatmap cladogram of yeast killer strains vs. lawns. The default plot makes cladograms of x- and y- axes and rearranges both killer strains and lawns into clades with the information given (NOT phylogeny). You can streamline the graph by not allowing it to reorder lawns or killers, or taking away the cladogram on either axis. 
+This R script should produce a nice heatmap cladogram of yeast killer strains vs. lawns. The default plot makes cladograms of x- and y- axes and rearranges both killer strains and lawns into clades with the information given (NOT phylogeny). You can streamline the graph by not allowing it to reorder lawns or killers, or taking away the cladogram on either axis. For individuals new to command-line interface, there is also a GUI ("INdigestion_zenity.sh") which facilitates proper input of arguments and runs the command line app via a series of prompts.
 
 <b>Dependencies</b>
-* [R](https://www.r-project.org/), [zenity](https://linuxconfig.org/how-to-use-graphical-widgets-in-bash-scripts-with-zenity)
+* [R](https://www.r-project.org/), [zenity](https://linuxconfig.org/how-to-use-graphical-widgets-in-bash-scripts-with-zenity) (for use with "hot-yeast_zenity" only)
 
 Downloading zenity
 
